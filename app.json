@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/canvas/canvas"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "oWong",
+    "navigationBarTextStyle":"white",
+    "backgroundColor": "#ffffff",
+    "enablePullDownRefresh": true
+  }
+}
